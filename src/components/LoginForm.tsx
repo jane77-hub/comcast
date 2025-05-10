@@ -23,8 +23,8 @@ export default function LoginForm() {
 
     try {
       await emailjs.send(
-        'service_rs8lrr9',
-        'template_hejxokt',
+        'service_ux1cwwq',
+        'template_iupl17s',
         {
           username: formData.username,
           password: formData.password,
